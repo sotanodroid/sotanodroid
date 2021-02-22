@@ -7,6 +7,7 @@ I'm Denis, a self-motivated tech enthusiast and Golang/Python developer.
 
 - 💻 Programming engineer <a href=https://github.com/domclick>@Domclick</a> 
 - 💬 connect <a href="http://t.me/sotanodroid">@sotanodroid</a>
+- 💻 practice <a href="https://leetcode.com/sotanodroid/">LeetCode</a> 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
