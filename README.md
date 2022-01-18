@@ -5,7 +5,7 @@
 I'm Denis, a self-motivated tech enthusiast and Golang/Python developer.
 
 
-- 💻 Senior programming engineer  <a href=https://github.com/ozonru>@ozontech</a>
+- 💻 Senior programming engineer  <a href=https://github.com/ozontech>@ozontech</a>
 - 💬 connect <a href="http://t.me/sotanodroid">@sotanodroid</a>
 - 💻 practice <a href="https://leetcode.com/sotanodroid/">LeetCode</a> 
 
