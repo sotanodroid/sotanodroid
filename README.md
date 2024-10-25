@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Kayumov</h1>
 <h3 align="center">A self-motivated tech enthusiast and Golang/Python developer.</h3>
 
-- 🔭 I’m currently working on [pricing and promotions in HelloFresh](https://github.com/hellofresh)
+- 🔭 I’m currently working at [HelloFresh](https://github.com/hellofresh)
 
 - 📫 How to reach me **http://t.me/sotanodroid**
 
